@@ -26,3 +26,6 @@
 
 # Desing da aplicaçao
 
+![Fluttery](/.github/flutternary.png)
+
+*(versão de produção)*
