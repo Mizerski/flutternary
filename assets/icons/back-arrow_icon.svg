@@ -1,9 +1,5 @@
-<svg width="25" height="28" viewBox="0 0 25 28" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="25" height="28" fill="url(#pattern0)"/>
-<defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_105_11" transform="translate(-0.06) scale(0.00875 0.0078125)"/>
-</pattern>
-<image id="image0_105_11" width="128" height="128" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAdbAAAHWwEVi0IEAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAKJQTFRF////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6C3cNgAAADV0Uk5TAAECCQsMDg8QERIUFiAnKzJRU1dbYmdwiIupqqywsb/AwsjJysvMzdPX2Nvc6Onv8PP8/f6GljltAAABCUlEQVR42u3bSW7CQBBG4QICgUCAmJmEMWGeh7r/1ZCQsoFFVvHfUr+6wPck2y3Zcpn915R7k+Om/2GqSfZ+n6+Kxu/474wyWt+9LfZ9Jfb98qL13Wti/5zT+r4U+94U+0Oxvyjh4+Pjx+nP8fHx4/WL+Ep/ho+Pjx+p/4OPH7P/ih+z/42Pj5/StMT++0nr21DsZ09a36oP/jRlXx8gvwTym1D/GMoPIv1RTAEFFITyYkJBsAVFCiigIP2P1RRQQAEFYRfMKQihoEQBBRRQoPitlwIKKKAg7IKBqQsa6oKU1/2eCy55dUHdtAXXgmkL1mbaAsXis3712yzZaZffzd6648P288/1/xvGqsv12QiA6QAAAABJRU5ErkJggg=="/>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="25px" height="28px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g><path style="opacity:0.657" fill="#000000" d="M 16.5,-0.5 C 17.8333,-0.5 19.1667,-0.5 20.5,-0.5C 20.6495,0.551975 20.4828,1.55198 20,2.5C 16.3176,6.0152 12.8176,9.68187 9.5,13.5C 12.8176,17.3181 16.3176,20.9848 20,24.5C 20.4828,25.448 20.6495,26.448 20.5,27.5C 19.1667,27.5 17.8333,27.5 16.5,27.5C 12.1885,22.8536 7.85513,18.1869 3.5,13.5C 7.85513,8.81309 12.1885,4.14642 16.5,-0.5 Z"/></g>
 </svg>

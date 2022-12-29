@@ -1,9 +1,5 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="32" height="32" fill="url(#pattern0)"/>
-<defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_40_1519" transform="scale(0.03125)"/>
-</pattern>
-<image id="image0_40_1519" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgEAQAAACJ4248AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAAAqo0jMgAAAAlwSFlzAAAAYAAAAGAA8GtCzwAAAAd0SU1FB+YMGwwTCCgPX2QAAAHISURBVFjD7ZMxSAJhGIbfu4z0KAxaBNtqjZYEAw0THMLBKWhpLGgLdUilNs+ys1aJtkZtCBNpCB2E/6BriGjTrUGHyCEkNPybDOnOOq/LIO6FW/7v7nuee+EHjBgxAqBITSbpxmodHm9yskhNJgBgxTWfz/xQr7ffGg1iz2QkieN+CyxJHEe2s1mz+PxsTtdq4prPx4izlQo9m5n5eOupVBq1+f0LC82m3vB2LZ/HlMfTPWPWq1WWOj5VP+XxtGv5vJ5NKMEBgDqsVhZLh4eyL3SU6AcHAKYgCOziVjLJbPK8okTx6qpIx8d/BA/kcorw1eNjZ+PggOkeiHPxOD2JRmVbyuXya3hlZZl5edEEz3q9ivDHYBAAmN6BXhJq4TIBPSQGgSsK/ERiUHhfAS0SWuAAwPYTcN7HYsxdIiEbuFwus1Ao9N4OrfAvG/hoIs3zdD4S6dfExG2noxWuSgAASEAQsBMKyQZPpRIAKN1z7KdSixfh8He7VQl82YTSUhV/3s2IWoHTy+vrDcfYGGxut17wgQTUSAwK1xwxzfOEUNr7iNNHR78O7g2x7+2R81aLnLdaYm53d6jwbiSJ44jdYvkTuBEj/ybvyNYnElgqbwIAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMTItMjdUMTI6MTk6MDgrMDA6MDDp/RQnAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIyLTEyLTI3VDEyOjE5OjA4KzAwOjAwmKCsmwAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMi0xMi0yN1QxMjoxOTowOCswMDowMM+1jUQAAAAASUVORK5CYII="/>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32px" height="32px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g><path style="opacity:0.907" fill="#c7c7c7" d="M 31.5,6.5 C 31.5,7.83333 31.5,9.16667 31.5,10.5C 26.187,15.4783 20.8537,20.4783 15.5,25.5C 10.1463,20.4783 4.81299,15.4783 -0.5,10.5C -0.5,9.16667 -0.5,7.83333 -0.5,6.5C 1.19416,5.31405 2.86082,5.48071 4.5,7C 8.0152,10.6824 11.6819,14.1824 15.5,17.5C 19.8722,13.1256 24.5389,9.12561 29.5,5.5C 30.1835,5.86273 30.8501,6.19607 31.5,6.5 Z"/></g>
 </svg>
