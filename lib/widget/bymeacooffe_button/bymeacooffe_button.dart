@@ -9,7 +9,7 @@ class BuyMeaCoffeeButton extends StatelessWidget {
    Widget build(BuildContext context) {
        return IconButton(
           onPressed: () {}, 
-          icon: SvgPicture.asset('lib/assets/icons/buyMeaCoffee.svg')
+          icon: SvgPicture.asset('lib/assets/icons/buymeacoffee.svg')
       );
   }
 }

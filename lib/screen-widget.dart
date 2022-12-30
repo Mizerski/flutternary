@@ -22,6 +22,7 @@ class ScreenWidget extends StatelessWidget {
         // ignore: prefer_const_literals_to_create_immutables
         actions: [
          GithubButton(),
+         BuyMeaCoffeeButton()
         ],
       ),
       body: Container(),
