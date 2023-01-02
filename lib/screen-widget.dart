@@ -47,7 +47,7 @@ class _ScreenWidgetState extends State<ScreenWidget> {
                     style: TextStyle(fontSize: 30),
                   ),
                 ),
-                  IconButton(
+                  IconButton( 
                     onPressed: (){
                       setState(() {
                         check = !check;
@@ -72,7 +72,9 @@ class _ScreenWidgetState extends State<ScreenWidget> {
                         ),
                         padding: EdgeInsets.only(left: 10,right: 10)
                       ),
-                    child: Text('Simple',  style: TextStyle(color: Colors.blue[600])),
+                    child: 
+                    Text('Simple',  
+                    style: TextStyle(color: Colors.blue[600])),
                   ),
                   Padding(
                       padding: const EdgeInsets.only(left: 15),
@@ -98,10 +100,22 @@ class _ScreenWidgetState extends State<ScreenWidget> {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   Container(
-                    padding: const EdgeInsets.only(right: 20),
                     width: MediaQuery.of(context).size.width * 0.9,
-                    child: Text('Hello Flutter developers! Today, we´re going to learn how to set a background color for a container in Flutter. To do this, we can use the Container widget and set the color parameter to the desired color, For example:',
-                    style: TextStyle(fontSize: 14),),
+                    child: 
+                      const Text.rich(
+                        TextSpan(
+                          text: 'Hello flutter developers! \n',
+                          children: <TextSpan>[
+                            TextSpan(text: 'Today we´re going to learn how to set a ', style: TextStyle(color: Colors.black)),
+                            TextSpan(text: 'background ', style: TextStyle(color: Color.fromARGB(149, 238, 184, 47))),
+                            TextSpan(text: 'color for a '),
+                            TextSpan(text: 'container', style: TextStyle(color: Color.fromARGB(150, 128, 128, 0))),
+                            TextSpan(text: ' in Flutter. To do this, we can use the'),
+                            TextSpan(text: ' container ', style: TextStyle(color: Color.fromARGB(150, 128, 128, 0))),
+                            TextSpan(text: 'widget and set the color parameter to the desired color. For example:')
+                          ],
+                        ),
+                      ),
                   ),
                 ],
               )
